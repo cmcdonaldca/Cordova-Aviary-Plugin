@@ -8,8 +8,8 @@ Hardly any of this code is mine.  I've merely pieced all these scraps together. 
 
 ## License
 
-- Aviary
-- Cordova
+- Aviary - http://www.aviary.com/legal/terms
+- Cordova - http://www.apache.org/licenses/LICENSE-2.0
 
 ## Android Prerequisites
 
